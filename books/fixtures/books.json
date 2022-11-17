@@ -1,0 +1,46 @@
+[
+    {
+        "model": "books.book",
+        "pk": "0421581e-fd45-4a77-aa6d-115bfd6f827d",
+        "fields": {
+            "title": "sport",
+            "authur": "Masen",
+            "price": "44.20",
+            "date_publication": "2022-11-23",
+            "cover": "covers/PythonCookbook_KuROboI.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "915b76bf-fa2c-4bb4-b237-ce99c9d12e08",
+        "fields": {
+            "title": "Business",
+            "authur": "Shukri",
+            "price": "50.50",
+            "date_publication": "2022-11-09",
+            "cover": "covers/PythonCookbook_IgXAROK.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "ae451be0-3605-4cbc-a432-e93c76e80b80",
+        "fields": {
+            "title": "Food",
+            "authur": "Shukri",
+            "price": "0.92",
+            "date_publication": "2022-11-09",
+            "cover": "covers/PythonCookbook_Gjmn6Md.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "af19ccfb-231d-4267-8c5c-26a133a0ab9d",
+        "fields": {
+            "title": "book1",
+            "authur": "Shukri",
+            "price": "0.06",
+            "date_publication": "2022-11-09",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
